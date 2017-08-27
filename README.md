@@ -1,4 +1,4 @@
-# CoderDojo - Coimbatore
+# CoderDojo - Salem
 
 Hello World!!
 
